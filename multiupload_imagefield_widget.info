@@ -4,4 +4,3 @@ package = Fields
 dependencies[] = multiupload_filefield_widget
 dependencies[] = image
 core = 7.x
-files[] = multiupload_imagefield_widget.module
